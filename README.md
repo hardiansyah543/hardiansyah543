@@ -4,17 +4,17 @@ Information Systems student and Laravel developer focused on building practical,
 
 ## About Me
 
-- 🎓 Student of Information Systems
-- 💻 Passionate about PHP, Laravel, MySQL, and full-stack web development
-- 🌱 Currently learning backend architecture, API design, and maintainable code structure
-- 📌 Interested in building real-world projects that solve everyday problems
+- 🎓 Information Systems student
+- 💻 Passionate about PHP, Laravel, and backend development
+- 🌱 Learning clean architecture, API design, and maintainable code
+- 📌 Interested in building real-world solutions that are useful and easy to maintain
 
-## Current Focus
+## Core Focus
 
-- Developing web applications with Laravel and PHP
-- Improving backend logic, database design, and application structure
-- Writing cleaner, more maintainable code
-- Building portfolio projects with practical value
+- Laravel development
+- Backend logic and database design
+- API integration and validation
+- Building portfolio projects with real-world value
 
 ## Tech Stack
 
@@ -38,34 +38,34 @@ Information Systems student and Laravel developer focused on building practical,
 
 ## Featured Projects
 
-- [web2-4124030-hardiansyah](https://github.com/hardiansyah543/web2-4124030-hardiansyah) — Web development project focused on practical implementation and learning
-- [pesantren](https://github.com/hardiansyah543/pesantren) — Project related to pesantren/school information system and web features
-- [portofoliohardiansyah](https://github.com/hardiansyah543/portofoliohardiansyah) — Personal portfolio project designed to showcase work and skills
-- [al-mannan-bagiknyaka](https://github.com/hardiansyah543/al-mannan-bagiknyaka) — Web application project with business-oriented functionality
+- [web2-4124030-hardiansyah](https://github.com/hardiansyah543/web2-4124030-hardiansyah)
+- [pesantren](https://github.com/hardiansyah543/pesantren)
+- [portofoliohardiansyah](https://github.com/hardiansyah543/portofoliohardiansyah)
+- [al-mannan-bagiknyaka](https://github.com/hardiansyah543/al-mannan-bagiknyaka)
 
 ## What I'm Learning
 
-- Laravel best practices and cleaner project structure
-- API integration and validation
-- Authentication and authorization flows
-- Database optimization and efficient query design
+- Laravel best practices
+- REST API and validation
+- Authentication and authorization
+- Database optimization and clean architecture
 
 ## Goals
 
 - Build more production-ready web applications
-- Improve problem-solving and clean coding habits
+- Improve problem-solving and code quality
 - Gain hands-on experience through real projects
-- Keep growing as a backend-focused developer
+- Grow as a backend-focused developer
 
 ## Open to
 
 - Collaboration on web projects
 - Internship opportunities
-- Learning and growth with experienced developers
+- Learning and growth with other developers
 
 ## Connect
 
-Feel free to connect with me through GitHub, collaborate on projects, or explore my repositories.
+Feel free to connect with me through GitHub and explore my repositories.
 
 ---
 
