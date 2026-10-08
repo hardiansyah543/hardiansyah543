@@ -1,22 +1,15 @@
-# Hi, I'm Hardiansyah 👋
+# Hi 👋, I'm Hardiansyah
 
-Information Systems student and Laravel developer focused on building practical, clean, and useful web applications.
+Information Systems student focused on building useful, practical, and maintainable web applications with Laravel and PHP.
 
-## About Me
+## 🚀 Now Building
 
-- 🎓 Information Systems student
-- 💻 Passionate about PHP, Laravel, and backend development
-- 🌱 Learning clean architecture, API design, and maintainable code
-- 📌 Interested in building real-world solutions that are useful and easy to maintain
+- Developing web applications with Laravel, PHP, and MySQL
+- Improving backend architecture, API design, and database logic
+- Turning ideas into real-world solutions with clean code
+- Building portfolio projects that are practical and useful
 
-## Core Focus
-
-- Laravel development
-- Backend logic and database design
-- API integration and validation
-- Building portfolio projects with real-world value
-
-## Tech Stack
+## 🧩 Tech Stack
 
 ### Backend
 - PHP
@@ -36,37 +29,28 @@ Information Systems student and Laravel developer focused on building practical,
 - VS Code
 - XAMPP
 
-## Featured Projects
+## 🔗 Featured Projects
 
 - [web2-4124030-hardiansyah](https://github.com/hardiansyah543/web2-4124030-hardiansyah)
 - [pesantren](https://github.com/hardiansyah543/pesantren)
 - [portofoliohardiansyah](https://github.com/hardiansyah543/portofoliohardiansyah)
 - [al-mannan-bagiknyaka](https://github.com/hardiansyah543/al-mannan-bagiknyaka)
 
-## What I'm Learning
+## 📊 GitHub Snapshot
 
-- Laravel best practices
-- REST API and validation
-- Authentication and authorization
-- Database optimization and clean architecture
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hardiansyah543&show_icons=true&theme=tokyonight)
 
-## Goals
+## 🎯 Goals
 
-- Build more production-ready web applications
+- Build more production-ready applications
 - Improve problem-solving and code quality
-- Gain hands-on experience through real projects
+- Gain real-world experience through useful projects
 - Grow as a backend-focused developer
 
-## Open to
+## 🤝 Open to
 
 - Collaboration on web projects
 - Internship opportunities
 - Learning and growth with other developers
 
-## Connect
-
-Feel free to connect with me through GitHub and explore my repositories.
-
----
-
-> “I build web solutions with a focus on practicality, clarity, and continuous learning.”
+> “Don’t be a programmer, be a problem solver.”
