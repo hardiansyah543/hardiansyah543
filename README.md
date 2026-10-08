@@ -1,13 +1,13 @@
 # Hi 👋, I'm Hardiansyah
 
-Information Systems student focused on building useful, practical, and maintainable web applications with Laravel and PHP.
+Information Systems student focused on building practical web applications with Laravel, PHP, and clean backend architecture.
 
 ## 🚀 Now Building
 
-- Developing web applications with Laravel, PHP, and MySQL
-- Improving backend architecture, API design, and database logic
-- Turning ideas into real-world solutions with clean code
-- Building portfolio projects that are practical and useful
+- Building useful Laravel applications that solve real problems
+- Improving backend logic, API flow, and database design
+- Turning ideas into working, maintainable products
+- Learning continuously through project-based development
 
 ## 🧩 Tech Stack
 
@@ -35,6 +35,7 @@ Information Systems student focused on building useful, practical, and maintaina
 - [pesantren](https://github.com/hardiansyah543/pesantren)
 - [portofoliohardiansyah](https://github.com/hardiansyah543/portofoliohardiansyah)
 - [al-mannan-bagiknyaka](https://github.com/hardiansyah543/al-mannan-bagiknyaka)
+- [warung-nusantara](https://github.com/hardiansyah543/warung-nusantara)
 
 ## 📊 GitHub Snapshot
 
@@ -42,15 +43,15 @@ Information Systems student focused on building useful, practical, and maintaina
 
 ## 🎯 Goals
 
-- Build more production-ready applications
-- Improve problem-solving and code quality
-- Gain real-world experience through useful projects
-- Grow as a backend-focused developer
+- Build more production-ready and valuable applications
+- Strengthen problem-solving and software design skills
+- Grow as a backend-focused full-stack developer
+- Keep learning through real projects and collaboration
 
 ## 🤝 Open to
 
 - Collaboration on web projects
 - Internship opportunities
-- Learning and growth with other developers
+- Learning and sharing with other developers
 
-> “Don’t be a programmer, be a problem solver.”
+> "Don't be a programmer, be a problem solver."
